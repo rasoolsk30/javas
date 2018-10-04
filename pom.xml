@@ -14,7 +14,7 @@
     <module>dropwizard-metrics/dropwizard-metrics-wavefront</module>
     <module>yammer-metrics</module>
   </modules>
-  <packaging>pommm</packaging>
+  <packaging>pom</packaging>
 
   <name>Wavefront All-in-One</name>
   <description>Top-level Wavefront Public Java POM</description>
